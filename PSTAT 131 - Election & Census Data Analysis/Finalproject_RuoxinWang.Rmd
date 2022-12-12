@@ -1,7 +1,7 @@
 ---
-title: "PSTAT 131 - Final Project"
-author: "Ruoxin Wang (Perm #9408246) & Tina Zhou (Perm #5726039)"
-date: "`r format(Sys.Date(), '%B %d, %Y')`"
+title: "PSTAT 131 - Final Project on Election & Census Data"
+author: "Ruoxin Wang (Perm #9408246)"
+date: "December 08, 2022"
 output: pdf_document
 ---
 
