@@ -1,5 +1,5 @@
 # Lia(Ruoxin) Wang Projects
-*This repository contains projects: **Identifying Anomalous Transactions** Group Project sponsored by Appfolio, Inc. from UCSB Capstone Program, **Time-Series Analysis** Individual Project with US Candy Production Data, **Countries’ Sustainability Exploratory Data Analysis** Group Project with ESG Data, and **Statistical Machine Learning Analysis** Individual Project with US 2020 Election Data.*
+*This repository contains projects: **Identifying Anomalous Transactions** Group Project sponsored by Appfolio, Inc. from UCSB Capstone Program, **Countries’ Sustainability Exploratory Data Analysis** Group Project with ESG Data, **Time-Series Analysis** Individual Project with US Candy Production Data, and **Statistical Machine Learning Analysis** Individual Project with US 2020 Election Data.*
 ## UCSB Capstone Program: Identifying Anomalous Transactions Sponsored by Appfolio, Inc.
 **Project Website**: https://pstat197.github.io/projects/projects-22-23.html#appfolio
 
