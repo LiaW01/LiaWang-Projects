@@ -1,12 +1,18 @@
 # Lia(Ruoxin) Wang Projects
 
+**2025**
+- *Ongoing: Research on Bias from Job Descriptions of Data Analyst | Python*
+    - NLP | Text As Data 
+- *Ongoing: Optimizing Bike Rebalancing in NYC’s Citi Bike System with Reinforcement Learning | Python*
+    - Reinforcement Learning | Resource Allocation
+
 **2024**
-- *Ongoing: Predicting Probability of Defaults For Borrowers | Python*
+- Probability of Default Prediction for Banca Massiccia | Python
     - Business Data Analysis | Machine Learning | Finance 
-- *Ongoing: Designing A Database Management System | Python*
-    - Database
-- *Ongoing: Information-Constrained Emergent Communication | Python* 
-    - NLP | Multi-Agent Reinforcement Learning | Computational Cognitive Science
+- Mental Health Subscription Plan Recommender | Python
+    - Database Management | Recommender System
+- Emergent Communication through Deep Learning | Python
+    - NLP | Multi-Agent Reinforcement Learning | Computational Cognitive Science | Emergent Communication
 - Emotion Detection from Plain Text | Python
     - NLP | BERT
 - Optimizing Movie Recommendation System | Python
